@@ -33,3 +33,22 @@
 
 // In other words
 // HW: PrimeNumbersInArr
+
+/* HW: 
+public class programo {
+    public static void main(String[] args) {
+        String a = "cow gives milk";
+        String b[] = a.split(" ");
+
+        // TODO: Add "some" after gives 
+
+        for(int i = 0; i < b.length; i++) {
+            for(int j = i+1; j < b.length; j++) {
+                if(b[i].equals(b[j])) {
+                    System.out.println(b[i]);
+                }
+            }
+        }
+    }
+}
+*/
