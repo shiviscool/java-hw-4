@@ -30,3 +30,6 @@
     }
 }, Find prime numbers in a array, Find prime numbers between 1-input
  */
+
+// In other words
+// HW: PrimeNumbersInArr
